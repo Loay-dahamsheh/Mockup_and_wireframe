@@ -1,10 +1,12 @@
 # Mockup_and_wireframe
 1. What is this project?
+
+
 The project is a website for a company that organizes **international conferences** for major companies such as Apple and Samsung. When you open the website, the main page appears containing the names of the companies. When you choose the name of the company, events related to this company will appear. When you click on any event, you will go to the details page for this event.
 
 
 2. What are the tools you used to create it?
- 
+
 - Figma
 - VS Code
 - Git bash 
